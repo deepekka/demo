@@ -1,0 +1,6 @@
+name: Content-Type
+description: Type of the request body. Should be application/json.
+in: header
+schema:
+  type: string
+required: true

@@ -1,0 +1,6 @@
+name: posistion1
+in: payload
+schema:
+  type: string
+required: true
+description: First position number of password character.

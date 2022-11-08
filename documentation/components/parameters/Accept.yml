@@ -1,0 +1,6 @@
+name: Accept
+description: The Response type of the API should be application/json.
+in: header
+schema:
+  type: String
+required:  true

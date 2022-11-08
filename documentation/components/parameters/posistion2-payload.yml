@@ -1,0 +1,6 @@
+name: posistion2
+in: payload
+schema:
+  type: string
+required: true
+description: Second position number of password character.

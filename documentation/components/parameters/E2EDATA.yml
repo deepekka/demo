@@ -1,0 +1,6 @@
+name: E2EDATA
+in: header
+description: End to end tracking header used in BPTM.
+schema: 
+  type: string
+required: false

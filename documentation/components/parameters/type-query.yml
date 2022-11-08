@@ -1,0 +1,6 @@
+name: type
+in: "query"
+schema:
+  type: string
+required: true
+description: Type value as account and service for BTC and EE respectively.

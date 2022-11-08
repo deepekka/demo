@@ -1,0 +1,6 @@
+name: char2
+in: payload
+schema:
+  type: string
+required: true
+description: Password character for second position.

@@ -1,0 +1,12 @@
+name: APIGW-Tracking-Header
+description: >-
+  Unique identifier for the request. The value should match the regex here.
+in: header
+example: 96bb97fa-b941-46bb-8c4e-86c616c28a13
+schema:
+  type: string
+  format: uuid
+  pattern: '([A-Za-z0-9]+(-[A-Za-z0-9]+)+)$'
+reruired: true
+instance : on_prem
+scope: <p>This API supports TLS mutual authentication.</p>

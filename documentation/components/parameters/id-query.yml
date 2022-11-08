@@ -1,0 +1,6 @@
+name: id
+in: "query"
+schema:
+  type: string
+required: true
+description: Customer Account Id.

@@ -1,0 +1,6 @@
+name: char1
+in: payload
+schema:
+  type: string
+required: true
+description: Password character for first position.

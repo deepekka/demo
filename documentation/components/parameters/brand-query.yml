@@ -1,0 +1,7 @@
+name: brand
+in: "query"
+schema:
+  type: string
+required: true
+description: Brand value is routing point for journey.
+example: BT or EE.
